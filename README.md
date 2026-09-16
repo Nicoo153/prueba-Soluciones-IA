@@ -37,7 +37,7 @@ El pipeline combina un flujo de ingesta (offline) y un flujo de consulta
 ## Cómo ejecutar el proyecto
 
 1. Abre el notebook `Proyecto_RAG_Vitalis.ipynb` en Google Colab.
-2. En el panel de secretos de Colab (ícono 🔑), agrega:
+2. En el panel de secretos de Colab (ícono LLAVE), agrega:
    - `GOOGLE_API_KEY`: tu clave de Google AI Studio
    - `LANGSMITH_API_KEY`: tu clave de LangSmith (opcional)
    Activa el acceso del notebook a ambos secrets.
